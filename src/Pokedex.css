@@ -1,0 +1,24 @@
+.pokedex {
+  color: rgb(165, 159, 159);
+  text-align: center;
+}
+
+.pokedex__cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(165, 159, 159);
+}
+
+.pokedex__winner {
+  color: rgb(105, 235, 105);
+}
+
+.pokedex__loser{
+  color: rgb(215, 107, 107);
+}
